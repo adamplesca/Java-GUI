@@ -1,4 +1,4 @@
-# Java-GUI
+# Java GUI (To Do List)
 
 ## Done to revise for coming college exam. 
 - Used Apache Netbeans IDE
