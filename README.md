@@ -5,4 +5,4 @@
 
 
 ### Needed to make a GUI program that took input and wrote it to a *.txt* file.
-### It is a simple Task list tracker. Just add a task needed to be complete
+### It is a simple task list tracker. Just add a task needed to be complete
